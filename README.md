@@ -16,8 +16,6 @@ Five models are compared:
 - neural network,
 - stacked classifier (with the four above models as base models and a random forest as meta model).
 
-## Data preprocessing
-
 First, the data is made ready for analysis with the following steps:
 
 - feature engineering,
